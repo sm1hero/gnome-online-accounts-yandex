@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sm1hero/goa/gnome-online-accounts'
+make: Leaving directory '/home/sm1hero/goa/gnome-online-accounts'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
